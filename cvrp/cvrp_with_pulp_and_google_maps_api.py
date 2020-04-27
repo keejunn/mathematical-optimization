@@ -13,7 +13,7 @@
 #     name: python3
 # ---
 
-# # <font color = 'orange'> *CVRP:Capacitiated Vechicle Routing Problem* </font>
+# #*CVRP:Capacitiated Vechicle Routing Problem*
 
 # +
 import numpy as np
